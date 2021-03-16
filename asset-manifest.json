@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weatherApp/static/css/main.11863e03.chunk.css",
+    "main.js": "/weatherApp/static/js/main.9fc38941.chunk.js",
+    "main.js.map": "/weatherApp/static/js/main.9fc38941.chunk.js.map",
+    "runtime-main.js": "/weatherApp/static/js/runtime-main.be91adf9.js",
+    "runtime-main.js.map": "/weatherApp/static/js/runtime-main.be91adf9.js.map",
+    "static/js/2.1ec25216.chunk.js": "/weatherApp/static/js/2.1ec25216.chunk.js",
+    "static/js/2.1ec25216.chunk.js.map": "/weatherApp/static/js/2.1ec25216.chunk.js.map",
+    "static/js/3.33cde681.chunk.js": "/weatherApp/static/js/3.33cde681.chunk.js",
+    "static/js/3.33cde681.chunk.js.map": "/weatherApp/static/js/3.33cde681.chunk.js.map",
+    "index.html": "/weatherApp/index.html",
+    "static/css/main.11863e03.chunk.css.map": "/weatherApp/static/css/main.11863e03.chunk.css.map",
+    "static/js/2.1ec25216.chunk.js.LICENSE.txt": "/weatherApp/static/js/2.1ec25216.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/weatherApp/static/media/karl-magnuson-HQR_JXd-fPs-unsplash (1).a0a80bd1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be91adf9.js",
+    "static/js/2.1ec25216.chunk.js",
+    "static/css/main.11863e03.chunk.css",
+    "static/js/main.9fc38941.chunk.js"
+  ]
+}
